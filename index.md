@@ -5,7 +5,12 @@
 
 * [Click here for the Team Contract](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
 * [Our Github Organization](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io.git)
-
+* Overview
+* Approach
+* [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
+* Milestone 2...
+* Milestone 3...
+  
 ## Overview
 Rice Cooker Recipes creates a way for students (on-campus or off) to learn and share recipes that:
 
