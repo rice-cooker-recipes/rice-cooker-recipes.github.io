@@ -8,13 +8,13 @@
 
 
 ## Sign In
-<img width="400px" class="rounded float-start pe-4" src="../img/Login.png">
+<img width="400px" class="rounded float-start pe-4" src="/img/Login.png">
 
 ## Home Page
-<img width="400px" class="rounded float-start pe-4" src="../img/Vendors.png">
+<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.png">
 
 ## Recipe
-<img width="400px" class="rounded float-start pe-4" src="../img/Recipe.png">
+<img width="400px" class="rounded float-start pe-4" src="/img/Recipe.png">
 
 ## About us
-<img width="400px" class="rounded float-start pe-4" src="../img/Aboutus.png">
+<img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.png">
