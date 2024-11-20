@@ -41,7 +41,7 @@ There is also an admin role. Admins can edit all content in the system, remove i
 <img width="400px" class="rounded float-start pe-4" src="/img/Login.img">
 
 * Home Page - After signing in, you will now have access to all pages and can interact with them. 
-<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img">
+<img width="400px" class="rounded float-start pe-4" src="/img/LandingPage.img">
 
 * Recipe - The recipe page has all the recipes that have been added by venodrs. You can also add a recipe to share with other students on this page. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
