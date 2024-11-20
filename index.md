@@ -6,9 +6,11 @@
 * Overview
 * Approach
 * User Guide
-* [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
-* [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
-* Milestone 3...
+* Developer Guide
+* Development History
+* Community Feedback
+* Contact Us
+
   
 ## Overview
 Rice Cooker Recipes creates a way for students (on-campus or off) to learn and share recipes that:
@@ -42,7 +44,7 @@ There is also an admin role. Admins can edit all content in the system, remove i
 * Home Page - After signing in, you will now have access to all pages and can interact with them. 
 <img width="400px" class="rounded float-start pe-4" src="/img/LandingPage.img">
 
-* Recipe - The recipe page has all the recipes that have been added by venodrs.                                                                                                       You can also add a recipe to share with other students on this page.
+* Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                                       You can also add a recipe to share with other students on this page.
   
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
 
@@ -56,9 +58,16 @@ How to download, install, and run the system locally, as well as how to deploy i
 ## Development History
 Explains the trajectory of development of the system: what was accomplished during each milestone.
 
+* [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
+* [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
+* Milestone 3...
+
+## Community Feedback
+Provides information obtained from users about the system.
+
 ## Contact Us
-Commments or questions for the developers?
-[Chiara Duyn](https://chiaraduyn.github.io/)
-[Justin Kugiyama](https://jkugiyama.github.io/)
-[Haley Teramoto]
-[Arron Huang]
+Commments or questions for the developers? 
+* [Chiara Duyn](https://chiaraduyn.github.io/)
+* [Justin Kugiyama](https://jkugiyama.github.io/)
+* [Haley Teramoto](https://haleyteramoto.github.io/)
+* [Arron Huang]
