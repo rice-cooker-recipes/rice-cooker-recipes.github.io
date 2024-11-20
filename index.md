@@ -38,20 +38,21 @@ There is also an admin role. Admins can edit all content in the system, remove i
 ## User Guide
 
 * Sign In
-  Once you enter the site you will want to sign in (if not you wont be able to see any of the recipes).
+                                                                                                                                                                                        
+Once you enter the site you will want to sign in (if not you wont be able to see any of the recipes).
 <img width="400px" class="rounded float-start pe-4" src="/img/Login.img">
 
 * Home Page
-  After signing in, you will now have access to all pages and can interact with them. 
+                                                                                                                                                                                  After signing in, you will now have access to all pages and can interact with them. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img">
 
 * Recipe
-  The recipe page has all the recipes that have been added by venodrs. You can also add a recipe to share with other students on this page. 
+                                                                                                                                                                                    The recipe page has all the recipes that have been added by venodrs. You can also add a recipe to share with other students on this page. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
 
 * About us
-  On the about us page you can learn more about the site and the creators. 
+                                                                                                                                                                                    On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
 
 ## Deployment
-Contain a link to the deployed application running on Vercel here 
+                                                                                                                                                                                    Contain a link to the deployed application running on Vercel here 
