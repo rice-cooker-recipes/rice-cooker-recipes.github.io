@@ -1,5 +1,3 @@
-# Rice Cooker Recipes
-
 
 ## By Chiara Duyn, Arron Huang, Justin Kugiyama, and Haley Teramoto
 
@@ -8,7 +6,7 @@
 * Overview
 * Approach
 * [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
-* Milestone 2...
+* [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
 * Milestone 3...
   
 ## Overview
