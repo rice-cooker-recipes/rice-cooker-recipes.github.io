@@ -55,4 +55,5 @@ Once you enter the site you will want to sign in (if not you wont be able to see
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
 
 ## Deployment
-                                                                                                                                                                                    Contain a link to the deployed application running on Vercel here 
+                                                                                                                                                                                    
+[Vercel Deployment](https://rice-cooker.vercel.app/)
