@@ -59,6 +59,6 @@ Explains the trajectory of development of the system: what was accomplished duri
 ## Contact Us
 Commments or questions for the developers?
 [Chiara Duyn](https://chiaraduyn.github.io/)
-[Justin Kugiyama]
+[Justin Kugiyama](https://jkugiyama.github.io/)
 [Haley Teramoto]
 [Arron Huang]
