@@ -1,7 +1,7 @@
 # Rice Cooker Recipes 
 <img width="150px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
 
-##Table of Contents
+## Table of Contents
 * [Overview](#overview)
 * [Approach](#approach)
 * [User Guide](#user-guide)
