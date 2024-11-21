@@ -53,7 +53,8 @@ and can interact with them.
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
 
-## Developer Guide                                                                                                                                                                    Our system has been deployed on Vercel. 
+## Developer Guide
+Our system has been deployed on Vercel. 
 You can view it [here.](https://rice-cooker.vercel.app/)            
 
 
