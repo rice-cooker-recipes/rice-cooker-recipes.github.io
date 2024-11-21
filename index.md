@@ -1,11 +1,13 @@
+# Rice Cooker Recipes 
+<img width="200px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
 
-* [Overview](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#overview)
-* [Approach](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#approach)
-* [User Guide](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#user-guide)
-* [Developer Guide](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#developer-guide)
-* [Development History](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#development-history)
-* [Community Feedback](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#community-feedback)
-* [Contact Us](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#contact-us)
+* [Overview](#overview)
+* [Approach](#approach)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Development History](#development-history)
+* [Community Feedback](#community-feedback)
+* [Contact Us](#contact-us)
 * [Team Contract](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
   
 ## Overview
@@ -68,3 +70,7 @@ Commments or questions for the developers?
 * [Justin Kugiyama](https://jkugiyama.github.io/)
 * [Haley Teramoto](https://haleyteramoto.github.io/)
 * [Arron Huang](https://arrronh.github.io/)
+
+## Team Contract
+To make sure work has been divided evenly we made a team contract. 
+View it [here.](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
