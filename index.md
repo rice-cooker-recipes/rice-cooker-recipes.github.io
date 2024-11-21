@@ -1,11 +1,13 @@
 # Rice Cooker Recipes 
-<img width="200px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
+<img width="150px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
 
+##Table of Contents
 * [Overview](#overview)
 * [Approach](#approach)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
+* [GitHub Hosting Guidelines](#github-hosting-guidelines)
 * [Community Feedback](#community-feedback)
 * [Contact Us](#contact-us)
 * [Team Contract](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
@@ -51,15 +53,20 @@ and can interact with them.
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
 
-## Developer Guide                                                                                                                                                                                 
-[Vercel Deployment](https://rice-cooker.vercel.app/)
+## Developer Guide                                                                                                                                                                    Our system has been deployed on Vercel. 
+You can view it [here.](https://rice-cooker.vercel.app/)            
+
 
 ## Development History
-What we have accomplished during each milestone:
+What we have accomplished during each milestone.
+
 
 * [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
 * [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
 * Milestone 3...
+
+## GitHub Hosting Guidelines
+We are committed to creating a welcoming space for sharing rice cooker recipes by ensuring our repository complies with GitHub's terms of service and community standards. This includes properly crediting original recipe sources, respecting copyright on photos and cooking instructions, maintaining family-friendly content, and avoiding harmful practices like spam or harassment. All shared recipes should include clear safety guidelines, allergen warnings where applicable, and proper food handling instructions. By following these guidelines, we aim to foster a helpful, collaborative community where cooking enthusiasts can safely share and explore creative rice cooker recipes.
 
 ## Community Feedback
 Help us improve our system by providing feedback by emailing any of the developers. 
