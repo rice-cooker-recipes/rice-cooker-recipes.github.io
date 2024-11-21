@@ -1,16 +1,12 @@
 
-## By Chiara Duyn, Arron Huang, Justin Kugiyama, and Haley Teramoto
-
-* [Click here for the Team Contract](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
-* [Our Github Organization](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io.git)
-* Overview
-* Approach
-* User Guide
-* Developer Guide
-* Development History
-* Community Feedback
-* Contact Us
-
+* [Overview](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#overview)
+* [Approach](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#approach)
+* [User Guide](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#user-guide)
+* [Developer Guide](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#developer-guide)
+* [Development History](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#development-history)
+* [Community Feedback](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#community-feedback)
+* [Contact Us](https://github.com/rice-cooker-recipes/rice-cooker-recipes.github.io/blob/main/index.md#contact-us)
+* [Team Contract](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
   
 ## Overview
 Rice Cooker Recipes creates a way for students (on-campus or off) to learn and share recipes that:
@@ -51,23 +47,22 @@ There is also an admin role. Admins can edit all content in the system, remove i
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
 
-## Developer Guide
-How to download, install, and run the system locally, as well as how to deploy it.                                                                                                                                                                                   
+## Developer Guide                                                                                                                                                                                 
 [Vercel Deployment](https://rice-cooker.vercel.app/)
 
 ## Development History
-Explains the trajectory of development of the system: what was accomplished during each milestone.
+What we have accomplished during each milestone:
 
 * [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
 * [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
 * Milestone 3...
 
 ## Community Feedback
-Provides information obtained from users about the system.
+Help us improve our system by providing feedback by emailing any of the developers. 
 
 ## Contact Us
-Commments or questions for the developers? 
+Commments or questions for the developers?
 * [Chiara Duyn](https://chiaraduyn.github.io/)
 * [Justin Kugiyama](https://jkugiyama.github.io/)
 * [Haley Teramoto](https://haleyteramoto.github.io/)
-* [Arron Huang]
+* [Arron Huang](https://arrronh.github.io/)
