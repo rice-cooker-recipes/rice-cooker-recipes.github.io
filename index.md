@@ -34,10 +34,12 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 ## User Guide
 
-* Sign In - Once you enter the site you will want to sign in (if not you wont be able to see any of the recipes).
+* Sign In - Once you enter the site you will want to sign in
+(if not your actions will be limited).
 <img width="400px" class="rounded float-start pe-4" src="/img/Login.img">
 
-* Home Page - After signing in, you will now have access to all pages and can interact with them. 
+* Home Page - After signing in, you will now have access to all pages
+and can interact with them. 
 <img width="400px" class="rounded float-start pe-4" src="/img/LandingPage.img">
 
 * Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                                       You can also add a recipe to share with other students on this page.
