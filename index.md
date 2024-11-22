@@ -52,7 +52,7 @@ and can interact with them.
 
 * Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                You can also add a recipe to share with other students on this page.
   
-<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img">
+<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img.tiff">
 
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
