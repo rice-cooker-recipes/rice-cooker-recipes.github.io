@@ -53,7 +53,7 @@ and can interact with them.
 * Recipe - The recipe page has all the recipes that have been added by students. When clicking on a recipe there
   will be the ingredients needed listed and also vendors where these ingredients can be bought. 
   
-<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img">
+<img width="400px" class="rounded float-start pe-4" src="/img/vendors.img">
 
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
