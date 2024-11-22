@@ -46,9 +46,13 @@ There is also an admin role. Admins can edit all content in the system, remove i
 and can interact with them. 
 <img width="400px" class="rounded float-start pe-4" src="/img/LandingPage.img">
 
-* Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                                       You can also add a recipe to share with other students on this page.
-  
+* Vendors - Page for vendors to be listed. These vendors are nearby stores where ingredients can be bought.
+
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
+
+* Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                You can also add a recipe to share with other students on this page.
+  
+<img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img">
 
 * About us - On the about us page you can learn more about the site and the creators. 
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img">
