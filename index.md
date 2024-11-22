@@ -44,7 +44,7 @@ There is also an admin role. Admins can edit all content in the system, remove i
 
 * Home Page - After signing in, you will now have access to all pages
 and can interact with them. 
-<img width="400px" class="rounded float-start pe-4" src="/img/LandingPage.img">
+<img width="400px" class="rounded float-start pe-4" src="/img/image.webp">
 
 * Vendors - Page for vendors to be listed. These vendors are nearby stores where ingredients can be bought.
 
