@@ -48,7 +48,7 @@ and can interact with them.
 
 * Vendors - Page for vendors to be listed. These vendors are nearby stores where ingredients can be bought.
 
-<img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
+<img width="400px" class="rounded float-start pe-4" src="/img/Vendors2.jpg">
 
 * Recipe - The recipe page has all the recipes that have been added by students. When clicking on a recipe there
   will be the ingredients needed listed and also vendors where these ingredients can be bought. 
