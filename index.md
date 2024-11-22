@@ -50,7 +50,8 @@ and can interact with them.
 
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipe.img">
 
-* Recipe - The recipe page has all the recipes that have been added by vendors.                                                                                You can also add a recipe to share with other students on this page.
+* Recipe - The recipe page has all the recipes that have been added by students. When clicking on a recipe there
+  will be the ingredients needed listed and also vendors where these ingredients can be bought. 
   
 <img width="400px" class="rounded float-start pe-4" src="/img/Vendors.img.tiff">
 
