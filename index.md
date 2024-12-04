@@ -69,7 +69,7 @@ What we have accomplished during each milestone.
 
 * [Milestone 1](https://github.com/orgs/rice-cooker-recipes/projects/3)
 * [Milestone 2](https://github.com/orgs/rice-cooker-recipes/projects/4)
-* Milestone 3...
+* [Milestone 3](https://github.com/orgs/rice-cooker-recipes/projects/9)
 
 ## GitHub Hosting Guidelines
 We strive to create a welcoming space for Rice Cooker Recipes by ensuring our repository complies with GitHub's terms of service and community standards. This includes properly crediting original recipe sources, respecting copyright on photos and cooking instructions, maintaining family-friendly content, and avoiding harmful practices like spam or harassment. All shared recipes should include clear safety guidelines, allergen warnings where applicable, and proper food handling instructions. By following these guidelines, we aim to foster a helpful, collaborative community where cooking enthusiasts can safely share and explore creative rice cooker recipes.
