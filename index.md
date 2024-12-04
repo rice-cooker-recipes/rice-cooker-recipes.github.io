@@ -1,4 +1,5 @@
-# Rice Cooker Recipes 
+
+# Rice Cooker Recipes ![ci-badge](https://github.com/rice-cooker-recipes/rice-cooker/workflows/ci-meteor-application-template-react/badge.svg) 
 <img width="150px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
 
 ## Table of Contents
@@ -88,4 +89,3 @@ Commments or questions for the developers?
 To make sure work has been divided evenly we made a team contract. 
 View it [here.](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
 
-![ci-badge](https://github.com/rice-cooker-recipes/rice-cooker/workflows/ci-meteor-application-template-react/badge.svg)
