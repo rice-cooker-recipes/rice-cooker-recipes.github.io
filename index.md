@@ -87,3 +87,5 @@ Commments or questions for the developers?
 ## Team Contract
 To make sure work has been divided evenly we made a team contract. 
 View it [here.](https://docs.google.com/document/d/1WzSJwWgbBw9D-oFeqAf3v3gOBFX2q6jsq-F7SLYJRkA/edit?usp=sharing)
+
+![ci-badge](https://github.com/rice-cooker-recipes/rice-cooker/workflows/ci-meteor-application-template-react/badge.svg)
