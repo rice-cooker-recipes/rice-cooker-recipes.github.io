@@ -1,4 +1,4 @@
-![rice-cooker-recipes](https://github.com/rice-cooker-recipes/rice-cooker/workflows/ci.yml/badge.svg)
+![rice-cooker-recipes](https://github.com/rice-cooker-recipes/rice-cooker/workflows/rice-cooker-recipes/badge.svg)
 # Rice Cooker Recipes
 <img width="150px" class="rounded float-start pe-4" src="/img/rice-cooker.png">
 
