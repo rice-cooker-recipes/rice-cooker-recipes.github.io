@@ -43,13 +43,13 @@ There is also an admin role. Admins can edit all content in the system, remove i
 (if not your actions will be limited).
 <img width="400px" class="rounded float-start pe-4" src="/img/Login.img">
 
-If you dont have an a log in, you can create an account.
+If you dont have a log in, you can create an account.
 
 <img width="400px" class="rounded float-start pe-4" src="/img/create.img">
 
 
-* Home Page - After signing in, you will now have access to all pages
-and can interact with them. 
+* Home Page - After signing in, you will have access to all pages
+and can interact with them. The home page has a search function for a fast and easy recipe look up. 
 <img width="400px" class="rounded float-start pe-4" src="/img/image.webp">
 
 * Vendors - Page for vendors to be listed. These vendors are nearby stores where ingredients can be bought.
@@ -94,7 +94,7 @@ What we have accomplished during each milestone.
 We strive to create a welcoming space for Rice Cooker Recipes by ensuring our repository complies with GitHub's terms of service and community standards. This includes properly crediting original recipe sources, respecting copyright on photos and cooking instructions, maintaining family-friendly content, and avoiding harmful practices like spam or harassment. All shared recipes should include clear safety guidelines, allergen warnings where applicable, and proper food handling instructions. By following these guidelines, we aim to foster a helpful, collaborative community where cooking enthusiasts can safely share and explore creative rice cooker recipes.
 
 ## Community Feedback
-Help us improve our system by providing feedback by emailing any of the developers. 
+Help us improve our system by providing feedback by emailing any of the developers. Find our infrmation under "Contact Us".
 
 ## Contact Us
 Commments or questions for the developers?
