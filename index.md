@@ -43,6 +43,11 @@ There is also an admin role. Admins can edit all content in the system, remove i
 (if not your actions will be limited).
 <img width="400px" class="rounded float-start pe-4" src="/img/Login.img">
 
+If you dont have an a log in, you can create an account.
+
+<img width="400px" class="rounded float-start pe-4" src="/img/create.img">
+
+
 * Home Page - After signing in, you will now have access to all pages
 and can interact with them. 
 <img width="400px" class="rounded float-start pe-4" src="/img/image.webp">
@@ -51,13 +56,26 @@ and can interact with them.
 
 <img width="400px" class="rounded float-start pe-4" src="/img/Vendors2.jpg">
 
-* Recipe - The recipe page has all the recipes that have been added by students. When clicking on a recipe there
-  will be the ingredients needed listed and also vendors where these ingredients can be bought. 
+* Recipe - The recipe page has all the recipes that have been added by students. When clicking on a recipe
+there will be attributes listed such as the ingredients needed listed, dietary restrictions, the vendors
+that have the needed ingredients, and any other cooking information like serving size or cooking instructions. 
   
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipes2.jpg">
 
-* About us - On the about us page you can learn more about the site and the creators. 
+On the Recipes page, you can also add a new recipe where you will add the name of your recipe and fill in 
+the rest of the attributes.
+<img width="400px" class="rounded float-start pe-4" src="/img/addrecipe.img">
+
+* About us - On the about us page you can learn more about the site and the creators. You can also leave
+  any feedback you may have!
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img.webp">
+
+* Log Out
+  Lastly, you can log out to end your session. You can log back in whenever you want to use or add an
+  ingredient.
+
+<img width="400px" class="rounded float-start pe-4" src="/img/signout.img">
+
 
 ## Developer Guide
 Our system has been deployed on Vercel. 
