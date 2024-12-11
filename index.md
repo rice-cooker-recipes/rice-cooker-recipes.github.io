@@ -49,7 +49,8 @@ If you dont have a log in, you can create an account.
 
 
 * Home Page - After signing in, you will have access to all pages
-and can interact with them. The home page has a search function for a fast and easy recipe look up. 
+and can interact with them. The home page has a search function for a fast and easy recipe look up.
+
 <img width="400px" class="rounded float-start pe-4" src="/img/image.webp">
 
 * Vendors - Page for vendors to be listed. These vendors are nearby stores where ingredients can be bought.
@@ -62,17 +63,15 @@ that have the needed ingredients, and any other cooking information like serving
   
 <img width="400px" class="rounded float-start pe-4" src="/img/Recipes2.jpg">
 
-On the Recipes page, you can also add a new recipe where you will add the name of your recipe and fill in 
-the rest of the attributes.
+On the Recipes page, you can also add a new recipe where you will add the name of your recipe and fill in the rest of the attributes.
+
 <img width="400px" class="rounded float-start pe-4" src="/img/addrecipe.img">
 
-* About us - On the about us page you can learn more about the site and the creators. You can also leave
-  any feedback you may have!
+* About Us - On the about us page you can learn more about the site and the creators. You can also leave any feedback you may have!
+
 <img width="400px" class="rounded float-start pe-4" src="/img/Aboutus.img.webp">
 
-* Log Out
-  Lastly, you can log out to end your session. You can log back in whenever you want to use or add an
-  ingredient.
+* Log Out - Lastly, you can log out to end your session. You can log back in whenever you want to use or add an ingredient.
 
 <img width="400px" class="rounded float-start pe-4" src="/img/signout.img">
 
