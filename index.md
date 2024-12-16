@@ -93,7 +93,16 @@ What we have accomplished during each milestone.
 We strive to create a welcoming space for Rice Cooker Recipes by ensuring our repository complies with GitHub's terms of service and community standards. This includes properly crediting original recipe sources, respecting copyright on photos and cooking instructions, maintaining family-friendly content, and avoiding harmful practices like spam or harassment. All shared recipes should include clear safety guidelines, allergen warnings where applicable, and proper food handling instructions. By following these guidelines, we aim to foster a helpful, collaborative community where cooking enthusiasts can safely share and explore creative rice cooker recipes.
 
 ## Community Feedback
-Help us improve our system by providing feedback by emailing any of the developers. Find our infrmation under "Contact Us".
+
+* Chiara's sister, Suma: Congratulations on your website! I really liked the idea of rice cooker recipes. As a college student, I wish I had this. I liked that you guys kept your overall style simple. Sometimes, there’s just too much going on in a website. It was also easy to navigate around the site.
+
+* Haley's friend, Ethan: The UI was nice and organized, but that if we were to improve the website, they wish it had a way to save recipes, also wish it had times and more specific measurements for the recipes.
+
+* Arron's friend, Chin: The site looks really nice! I like the color scheme a lot. This would have really benefited me when I was in college back in the day.
+
+* Arron's friend, Jaymen: Looks good! I really wish this was a thing back when I was in college. I also like how the recipes are very simple to make, since all you really need is a rice cooker and the right ingredients! Very simple and easy to navigate the site.
+
+* Justin's friend, Steven: The interface was really simple and easy to understand. It was easy on my eyes and allowed me to find helpful recipes for the upcoming holidays!
 
 ## Contact Us
 Commments or questions for the developers?
